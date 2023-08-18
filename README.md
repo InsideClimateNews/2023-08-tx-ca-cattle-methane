@@ -1,6 +1,6 @@
 # Methane emissions from dairies and cattle feedlots in Texas and California
 
-Data and [R](https://www.r-project.org/) code for the analysis underlying [these](https://insideclimatenews.org/news/17082023/texas-dairy-among-states-biggest-methane-emitters/) [two](https://insideclimatenews.org/news/18082023/californias-top-methane-emitter-is-cattle-feedlot/
+Data and [R](https://www.r-project.org/) code for the analysis underlying [these](https://insideclimatenews.org/news/18082023/texas-dairy-among-states-biggest-methane-emitters/) [two](https://insideclimatenews.org/news/18082023/californias-top-methane-emitter-is-cattle-feedlot/
 ) Inside Climate News articles, estimating methane emissions from cattle held in concentrated animal feeding operations (CAFOs) in Texas and California.
 
 ### Methodology
