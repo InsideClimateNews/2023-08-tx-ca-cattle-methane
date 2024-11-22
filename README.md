@@ -7,7 +7,7 @@ Data and [R](https://www.r-project.org/) code for the analysis underlying [these
 
 The analysis scripts estimate total annual methane emissions for dairies and other cattle feedlots based on the number of animals and their type (milking dairy cows or other cattle), using information from the facilities' state wastewater permits. In Texas, these permits detail the maximum number of animals allowed to be present. In California, they document the most recent recorded animal numbers.
 
-Our approach is modified from [methods](https://github.com/climatetracecoalition/methodology-documents/tree/main/Agriculture) developed by [Climate TRACE](https://climatetrace.org/), a nonprofit coalition that is to working provide a farm-by-farm inventory of greenhouse gas emissions.
+Our approach is modified from [methods](https://github.com/climatetracecoalition/methodology-documents/tree/main/Agriculture) developed by [Climate TRACE](https://climatetrace.org/), a nonprofit coalition that is working to provide a farm-by-farm inventory of greenhouse gas emissions.
 
 We calculated enteric methane emissions, released directly from animals' digestive tracts, using emissions factors defined by the [Intergovernmental Panel on Climate Change (IPCC) in 2019](https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch10_Livestock.pdf). For North America, these assume annual emissions of 138 kg of methane per head for milking cows and 64 kg per head for other cattle.
 
